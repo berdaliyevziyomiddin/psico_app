@@ -1,7 +1,5 @@
 streamlit
 deepface
-opencv-python-headless
-pencil
+opencv-python-headless   # bu muammo bo‘lmasligi uchun
+tensorflow
 pillow
-opencv-python    # “cv2” modulini ta’minlaydi
-tensorflow       # DeepFace uchun kerak
